@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Comentario de prueba
 public class PlayerController2 : MonoBehaviour
 {
     private Rigidbody2D Rigidbody2D;
